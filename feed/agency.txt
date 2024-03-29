@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+"Koleje Śląskie",http://kolejeslaskie.com,Europe/Warsaw,pl,"32 428 88 88",https://bilet.kolejeslaskie.com

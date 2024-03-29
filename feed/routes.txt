@@ -1,0 +1,94 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+80416_73312,S3,"Kraków Główny - Katowice",2,FF66CC,FFFFFF
+79020_73312,SPRINTER,"Zakopane - Katowice",2,FFFFFF,000000
+77107_73312,S31,"Oświęcim - Katowice",2,000096,FFFFFF
+62653_69708,S1,"Częstochowa - Gliwice",2,FF0000,FFFFFF
+69708_62653,S1,"Gliwice - Częstochowa",2,FF0000,FFFFFF
+62653_71001,S9,"Częstochowa - Tarnowskie Góry",2,FFFFFF,000000
+71001_62653,S9,"Tarnowskie Góry - Częstochowa",2,FFFFFF,000000
+71001_264927,S9,"Tarnowskie Góry - Poraj",2,FFFFFF,000000
+242839_73312,S4,"Tychy Lodowisko - Katowice",2,FF7800,FFFFFF
+73312_242839,S4,"Katowice - Tychy Lodowisko",2,FF7800,FFFFFF
+75200_62653,S1,"Łazy - Częstochowa",2,FF0000,FFFFFF
+62653_75200,S1,"Częstochowa - Łazy",2,FF0000,FFFFFF
+69708_73312,S1,"Gliwice - Katowice",2,FF0000,FFFFFF
+69708_74500,S1,"Gliwice - Dąbrowa Górnicza Ząbkowice",2,FF0000,FFFFFF
+69708_74658,S1,"Gliwice - Sosnowiec Główny",2,FF0000,FFFFFF
+73312_74500,S1,"Katowice - Dąbrowa Górnicza Ząbkowice",2,FF0000,FFFFFF
+69708_75309,S1,"Gliwice - Zawiercie",2,FF0000,FFFFFF
+69708_74583,S1,"Gliwice - Dąbrowa Górnicza",2,FF0000,FFFFFF
+73312_69708,S1,"Katowice - Gliwice",2,FF0000,FFFFFF
+75309_69708,S1,"Zawiercie - Gliwice",2,FF0000,FFFFFF
+74500_69708,S1,"Dąbrowa Górnicza Ząbkowice - Gliwice",2,FF0000,FFFFFF
+74658_69708,S1,"Sosnowiec Główny - Gliwice",2,FF0000,FFFFFF
+74500_73312,S1,"Dąbrowa Górnicza Ząbkowice - Katowice",2,FF0000,FFFFFF
+74583_69708,S1,"Dąbrowa Górnicza - Gliwice",2,FF0000,FFFFFF
+73312_80416,S3,"Katowice - Kraków Główny",2,FF66CC,FFFFFF
+73312_79020,SPRINTER,"Katowice - Zakopane",2,FFFFFF,000000
+73312_77107,S31,"Katowice - Oświęcim",2,000096,FFFFFF
+76869_179282,KSL,"Zwardoń - Skalite",2,FFFFFF,000000
+179282_76869,KSL,"Skalite - Zwardoń",2,FFFFFF,000000
+72306_69708,S18,"Bytom - Gliwice",2,CC0066,FFFFFF
+68205_73312,S71,"Rybnik - Katowice",2,0096FF,FFFFFF
+67900_73312,S71,"Chałupki - Katowice",2,0096FF,FFFFFF
+73312_67900,S71,"Katowice - Chałupki",2,0096FF,FFFFFF
+69708_72306,S18,"Gliwice - Bytom",2,CC0066,FFFFFF
+73700_76000,S5,"Tychy - Czechowice-Dziedzice",2,FFB900,FFFFFF
+76000_73700,S5,"Czechowice-Dziedzice - Tychy",2,FFB900,FFFFFF
+75903_68403,S72/S71,"Pszczyna - Wodzisław Śląski",2,FFFFFF,000000
+75903_68205,S72,"Pszczyna - Rybnik",2,8C008C,FFFFFF
+68205_75903,S72,"Rybnik - Pszczyna",2,8C008C,FFFFFF
+68403_75903,S71/S72,"Wodzisław Śląski - Pszczyna",2,FFFFFF,000000
+68700_75903,S7/S72,"Racibórz - Pszczyna",2,FFFFFF,000000
+68205_68700,S7,"Rybnik - Racibórz",2,0096FF,FFFFFF
+68700_68205,S7,"Racibórz - Rybnik",2,0096FF,FFFFFF
+68205_68403,S71,"Rybnik - Wodzisław Śląski",2,0096FF,FFFFFF
+68205_67900,S71,"Rybnik - Chałupki",2,0096FF,FFFFFF
+67900_68205,S71,"Chałupki - Rybnik",2,0096FF,FFFFFF
+68403_68205,S71,"Wodzisław Śląski - Rybnik",2,0096FF,FFFFFF
+73312_68700,S7,"Katowice - Racibórz",2,0096FF,FFFFFF
+73312_69005,S7,"Katowice - Orzesze",2,0096FF,FFFFFF
+68700_73312,S7,"Racibórz - Katowice",2,0096FF,FFFFFF
+69005_73312,S7,"Orzesze - Katowice",2,0096FF,FFFFFF
+73312_179223,S71,"Katowice - Bohumin",2,0096FF,FFFFFF
+73312_68403,S71,"Katowice - Wodzisław Śląski",2,0096FF,FFFFFF
+68403_73312,S71,"Wodzisław Śląski - Katowice",2,0096FF,FFFFFF
+179223_73312,S71,"Bohumin - Katowice",2,0096FF,FFFFFF
+68700_67900,S78,"Racibórz - Chałupki",2,828C96,FFFFFF
+67900_68700,S78,"Chałupki - Racibórz",2,828C96,FFFFFF
+76604_73312,S5,"Żywiec - Katowice",2,FFB900,FFFFFF
+73312_76604,S5,"Katowice - Żywiec",2,FFB900,FFFFFF
+77040_62653,SPRINTER,"Wisła Głębce - Częstochowa",2,FFFFFF,000000
+77040_73312,SPRINTER,"Wisła Głębce - Katowice",2,FFFFFF,000000
+77040_68205,SPRINTER,"Wisła Głębce - Rybnik",2,FFFFFF,000000
+76869_73312,SPRINTER,"Zwardoń - Katowice",2,FFFFFF,000000
+76869_62653,SPRINTER,"Zwardoń - Częstochowa",2,FFFFFF,000000
+69708_77040,SPRINTER,"Gliwice - Wisła Głębce",2,FFFFFF,000000
+69708_76604,SPRINTER,"Gliwice - Żywiec",2,FFFFFF,000000
+69708_68205,SPRINTER,"Gliwice - Rybnik",2,FFFFFF,000000
+77040_69708,SPRINTER,"Wisła Głębce - Gliwice",2,FFFFFF,000000
+76604_69708,SPRINTER,"Żywiec - Gliwice",2,FFFFFF,000000
+68205_69708,SPRINTER,"Rybnik - Gliwice",2,FFFFFF,000000
+73312_76869,SPRINTER,"Katowice - Zwardoń",2,FFFFFF,000000
+62653_76869,SPRINTER,"Częstochowa - Zwardoń",2,FFFFFF,000000
+62653_77040,SPRINTER,"Częstochowa - Wisła Głębce",2,FFFFFF,000000
+73312_77040,SPRINTER,"Katowice - Wisła Głębce",2,FFFFFF,000000
+68205_77040,SPRINTER,"Rybnik - Wisła Głębce",2,FFFFFF,000000
+73312_71001,S80,"Katowice - Tarnowskie Góry",2,000096,FFFFFF
+71001_73312,S80,"Tarnowskie Góry - Katowice",2,000096,FFFFFF
+73312_71407,S8,"Katowice - Lubliniec",2,000096,FFFFFF
+71407_73312,S8,"Lubliniec - Katowice",2,000096,FFFFFF
+62653_71407,S13,"Częstochowa - Lubliniec",2,00D29B,FFFFFF
+76000_75655,S61,"Czechowice-Dziedzice - Cieszyn",2,1D6434,FFFFFF
+71407_62653,S13,"Lubliniec - Częstochowa",2,00D29B,FFFFFF
+75655_76000,S61,"Cieszyn - Czechowice-Dziedzice",2,1D6434,FFFFFF
+73312_75655,S6/S62,"Katowice - Cieszyn",2,FFFFFF,000000
+75788_75655,S62,"Skoczów - Cieszyn",2,009600,FFFFFF
+76901_75655,S62,"Goleszów - Cieszyn",2,009600,FFFFFF
+76901_77040,S6,"Goleszów - Wisła Głębce",2,009600,FFFFFF
+75655_73312,S62/S6,"Cieszyn - Katowice",2,FFFFFF,000000
+75655_76901,S62,"Cieszyn - Goleszów",2,009600,FFFFFF
+75655_75788,S62,"Cieszyn - Skoczów",2,009600,FFFFFF
+77040_76901,S6,"Wisła Głębce - Goleszów",2,009600,FFFFFF
+76000_76604,S5,"Czechowice-Dziedzice - Żywiec",2,FFB900,FFFFFF
+76604_76000,S5,"Żywiec - Czechowice-Dziedzice",2,FFB900,FFFFFF
