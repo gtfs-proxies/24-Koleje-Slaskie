@@ -74,14 +74,63 @@ jobs:
         id: run-gtfstidy
         run: gtfstidy -WSCRmTcsOD --keep-service-ids -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/original/*.zip
 
+      - name: Extract feed dates
+        id: feed-dates
+        run: |
+          unzip -q /tmp/${{ env.FEED_NAME }}/tidied.zip -d /tmp/${{ env.FEED_NAME }}/extract/
+          START_DATE=$(grep -m1 '^' /tmp/${{ env.FEED_NAME }}/extract/calendar.txt | cut -d, -f8 | tail -1 | cut -d, -f1)
+          END_DATE=$(tail -1 /tmp/${{ env.FEED_NAME }}/extract/calendar.txt | cut -d, -f9)
+          echo "START_DATE=${START_DATE}" >> $GITHUB_OUTPUT
+          echo "END_DATE=${END_DATE}" >> $GITHUB_OUTPUT
+
       - name: Unzip GTFS feeds
         run: bash unzip.sh
+
+      - name: Generate feed_info.txt
+        run: |
+          cat > feed/feed_info.txt << 'EOF'
+          feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_start_date,feed_end_date
+          GTFS Proxies (Koleje Śląskie),https://github.com/gtfs-proxies,pl,${{ steps.version.outputs.VERSION }},${{ steps.feed-dates.outputs.START_DATE }},${{ steps.feed-dates.outputs.END_DATE }}
+          EOF
+
+      - name: Generate attribution.txt
+        run: |
+          cat > feed/attribution.txt << 'EOF'
+          organization_name,attribution_url,is_producer,is_operator,is_authority
+          Koleje Śląskie,https://www.kolejeslaskie.pl,1,1,1
+          GTFS Proxies,https://github.com/gtfs-proxies,0,0,0
+          EOF
+
+      - name: Check if monthly release needed
+        id: check-monthly
+        run: |
+          LAST_TAG=$(git tag -l "2026.*" | sort -V | tail -1)
+          if [ -z "$LAST_TAG" ]; then
+            echo "FORCE_RELEASE=true" >> $GITHUB_OUTPUT
+          else
+            LAST_TAG_DATE=$(git log -1 --format=%ai "$LAST_TAG" | cut -d' ' -f1)
+            LAST_TAG_EPOCH=$(date -d "$LAST_TAG_DATE" +%s)
+            NOW_EPOCH=$(date +%s)
+            DAYS_DIFF=$(( (NOW_EPOCH - LAST_TAG_EPOCH) / 86400 ))
+            if [ $DAYS_DIFF -gt 30 ]; then
+              echo "FORCE_RELEASE=true" >> $GITHUB_OUTPUT
+            else
+              echo "FORCE_RELEASE=false" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Update VERSION file if needed
+        if: steps.check-monthly.outputs.FORCE_RELEASE == 'true'
+        run: |
+          echo "${{ steps.version.outputs.VERSION }}" > VERSION
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
         with:
           commit_message: Add new feeds (${{ steps.version.outputs.VERSION }})
-          file_pattern: 'feed/'
+          file_pattern: |
+            feed/
+            VERSION
           branch: main
 
       - name: Tag release
