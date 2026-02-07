@@ -1,158 +1,158 @@
-route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-79905_73312,S3,"Kraków Płaszów - Katowice",2,FF66CC,FFFFFF
-79905_62653,S34,"Kraków Płaszów - Częstochowa",2,FFFFFF,000000
-80416_62653,S34,"Kraków Główny - Częstochowa",2,FFFFFF,000000
-79020_62653,S51,"Zakopane - Częstochowa",2,FFFFFF,FFB900
-77107_73312,S31,"Oświęcim - Katowice",2,000096,FFFFFF
-77107_73502,S31,"Oświęcim - Mysłowice",2,000096,FFFFFF
-62653_69708,S1,"Częstochowa - Gliwice",2,FF0000,FFFFFF
-69708_62653,S1,"Gliwice - Częstochowa",2,FF0000,FFFFFF
-71001_62653,S9,"Tarnowskie Góry - Częstochowa",2,FFFFFF,000000
-62653_71001,S9,"Częstochowa - Tarnowskie Góry",2,FFFFFF,000000
-62653_76109,S1/S5,"Częstochowa - Bielsko-Biała Główna",2,FFFFFF,000000
-73312_72058,S82,"Katowice - Chorzew Siemkowice",2,FFFFFF,000000
-73106_72058,S82,"Chorzów Batory - Chorzew Siemkowice",2,FFFFFF,000000
-73106_71944,S82,"Chorzów Batory - Kłobuck",2,FFFFFF,000000
-71944_73106,S82,"Kłobuck - Chorzów Batory",2,FFFFFF,000000
-72058_73106,S82,"Chorzew Siemkowice - Chorzów Batory",2,FFFFFF,000000
-73106_62653,S9,"Chorzów Batory - Częstochowa",2,FFFFFF,000000
-73106_75309,S9,"Chorzów Batory - Zawiercie",2,FFFFFF,000000
-62653_73106,S9,"Częstochowa - Chorzów Batory",2,FFFFFF,000000
-75309_73106,S9,"Zawiercie - Chorzów Batory",2,FFFFFF,000000
-62653_73312,S9,"Częstochowa - Katowice",2,FFFFFF,000000
-72306_71407,S8,"Bytom - Lubliniec",2,000096,FFFFFF
-73312_71407,S8,"Katowice - Lubliniec",2,000096,FFFFFF
-73106_71407,S8,"Chorzów Batory - Lubliniec",2,000096,FFFFFF
-73106_71001,S8,"Chorzów Batory - Tarnowskie Góry",2,000096,FFFFFF
-71407_73106,S8,"Lubliniec - Chorzów Batory",2,000096,FFFFFF
-71407_73312,S8,"Lubliniec - Katowice",2,000096,FFFFFF
-71407_72306,S8,"Lubliniec - Bytom",2,000096,FFFFFF
-62653_71407,S13,"Częstochowa - Lubliniec",2,00D29B,FFFFFF
-71407_62653,S13,"Lubliniec - Częstochowa",2,00D29B,FFFFFF
-62653_75200,S1,"Częstochowa - Łazy",2,FF0000,FFFFFF
-75200_62653,S1,"Łazy - Częstochowa",2,FF0000,FFFFFF
-69708_74500,S1,"Gliwice - Dąbrowa Górnicza Ząbkowice",2,FF0000,FFFFFF
-74500_75309,S1,"Dąbrowa Górnicza Ząbkowice - Zawiercie",2,FF0000,FFFFFF
-75309_62653,S1,"Zawiercie - Częstochowa",2,FF0000,FFFFFF
-73312_62653,S1,"Katowice - Częstochowa",2,FF0000,FFFFFF
-72306_69708,S18,"Bytom - Gliwice",2,CC0066,FFFFFF
-75655_76000,S61,"Cieszyn - Czechowice-Dziedzice",2,1D6434,FFFFFF
-75655_75796,S61,"Cieszyn - Chybie",2,1D6434,FFFFFF
-69708_72306,S18,"Gliwice - Bytom",2,CC0066,FFFFFF
-76000_75655,S61,"Czechowice-Dziedzice - Cieszyn",2,1D6434,FFFFFF
-75796_75655,S61,"Chybie - Cieszyn",2,1D6434,FFFFFF
-76901_75655,S62,"Goleszów - Cieszyn",2,009600,FFFFFF
-75788_75655,S62,"Skoczów - Cieszyn",2,009600,FFFFFF
-76901_77040,S62,"Goleszów - Wisła Głębce",2,009600,FFFFFF
-75762_75655,S62,"Pierściec - Cieszyn",2,009600,FFFFFF
-75655_77040,S62/S6,"Cieszyn - Wisła Głębce",2,FFFFFF,000000
-77040_76901,S62,"Wisła Głębce - Goleszów",2,009600,FFFFFF
-75655_75788,S62,"Cieszyn - Skoczów",2,009600,FFFFFF
-75655_76901,S62,"Cieszyn - Goleszów",2,009600,FFFFFF
-75655_75762,S62,"Cieszyn - Pierściec",2,009600,FFFFFF
-77040_75655,S6/S62,"Wisła Głębce - Cieszyn",2,FFFFFF,000000
-73312_69708,S1,"Katowice - Gliwice",2,FF0000,FFFFFF
-75309_69708,S1,"Zawiercie - Gliwice",2,FF0000,FFFFFF
-74500_69708,S1,"Dąbrowa Górnicza Ząbkowice - Gliwice",2,FF0000,FFFFFF
-74583_69708,S1,"Dąbrowa Górnicza - Gliwice",2,FF0000,FFFFFF
-69708_75309,S1,"Gliwice - Zawiercie",2,FF0000,FFFFFF
-69708_73312,S1,"Gliwice - Katowice",2,FF0000,FFFFFF
-69708_74583,S1,"Gliwice - Dąbrowa Górnicza",2,FF0000,FFFFFF
-74583_75309,S1,"Dąbrowa Górnicza - Zawiercie",2,FF0000,FFFFFF
-69708_73106,S1,"Gliwice - Chorzów Batory",2,FF0000,FFFFFF
-73106_74583,S1,"Chorzów Batory - Dąbrowa Górnicza",2,FF0000,FFFFFF
-73312_79905,S3,"Katowice - Kraków Płaszów",2,FF66CC,FFFFFF
-62653_79905,S34,"Częstochowa - Kraków Płaszów",2,FFFFFF,000000
-62653_80416,S34,"Częstochowa - Kraków Główny",2,FFFFFF,000000
-62653_79020,S51,"Częstochowa - Zakopane",2,FFFFFF,FFB900
-73312_77107,S31,"Katowice - Oświęcim",2,000096,FFFFFF
-73502_77107,S31,"Mysłowice - Oświęcim",2,000096,FFFFFF
-76869_179282,ZSSK,"Zwardoń - Skalite",2,FFFFFF,000000
-179282_76869,ZSSK,"Skalite - Zwardoń",2,FFFFFF,000000
-76109_62653,S5/S1,"Bielsko-Biała Główna - Częstochowa",2,FFFFFF,000000
-75788_76000,S6,"Skoczów - Czechowice-Dziedzice",2,009600,FFFFFF
-73312_72900,S7,"Katowice - Katowice Ligota",2,0096FF,FFFFFF
-74500_75200,S1,"Dąbrowa Górnicza Ząbkowice - Łazy",2,FF0000,FFFFFF
-75309_74500,S1,"Zawiercie - Dąbrowa Górnicza Ząbkowice",2,FF0000,FFFFFF
-76000_75788,S6,"Czechowice-Dziedzice - Skoczów",2,009600,FFFFFF
-73312_73700,S4,"Katowice - Tychy",2,FF7800,FFFFFF
-76000_73312,S5,"Czechowice-Dziedzice - Katowice",2,FFB900,FFFFFF
-76869_73312,S5,"Zwardoń - Katowice",2,FFB900,FFFFFF
-76000_68205,S72,"Czechowice-Dziedzice - Rybnik",2,8C008C,FFFFFF
-76604_68205,S72,"Żywiec - Rybnik",2,8C008C,FFFFFF
-69203_68205,S72,"Żory - Rybnik",2,8C008C,FFFFFF
-69203_68700,S72/S7,"Żory - Racibórz",2,FFFFFF,000000
-76109_68205,S72,"Bielsko-Biała Główna - Rybnik",2,8C008C,FFFFFF
-69203_68403,S72/S71,"Żory - Wodzisław Śląski",2,FFFFFF,000000
-68205_76000,S72,"Rybnik - Czechowice-Dziedzice",2,8C008C,FFFFFF
-68205_69203,S72,"Rybnik - Żory",2,8C008C,FFFFFF
-68205_76109,S72,"Rybnik - Bielsko-Biała Główna",2,8C008C,FFFFFF
-68700_69203,S7/S72,"Racibórz - Żory",2,FFFFFF,000000
-68403_69203,S71/S72,"Wodzisław Śląski - Żory",2,FFFFFF,000000
-68205_76604,S72,"Rybnik - Żywiec",2,8C008C,FFFFFF
-69708_68403,S17,"Gliwice - Wodzisław Śląski",2,FFFFFF,000000
-69708_68205,S17,"Gliwice - Rybnik",2,FFFFFF,000000
-69708_68700,S17/S7,"Gliwice - Racibórz",2,FFFFFF,000000
-68205_69708,S17,"Rybnik - Gliwice",2,FFFFFF,000000
-68403_69708,S17,"Wodzisław Śląski - Gliwice",2,FFFFFF,000000
-68700_69708,S7/S17,"Racibórz - Gliwice",2,FFFFFF,000000
-73700_68148,S74,"Tychy - Orzesze Jaśkowice",2,FFFFFF,000000
-73700_68205,S74,"Tychy - Rybnik",2,FFFFFF,000000
-68205_73700,S74,"Rybnik - Tychy",2,FFFFFF,000000
-68148_73700,S74,"Orzesze Jaśkowice - Tychy",2,FFFFFF,000000
-68700_67900,S78,"Racibórz - Chałupki",2,828C96,FFFFFF
-67900_68700,S78,"Chałupki - Racibórz",2,828C96,FFFFFF
-76604_73312,S5,"Żywiec - Katowice",2,FFB900,FFFFFF
-73312_76109,S5,"Katowice - Bielsko-Biała Główna",2,FFB900,FFFFFF
-67900_73312,S71,"Chałupki - Katowice",2,0096FF,FFFFFF
-73312_67900,S71,"Katowice - Chałupki",2,0096FF,FFFFFF
-77040_73312,S6,"Wisła Głębce - Katowice",2,009600,FFFFFF
-77040_62653,S6/S1,"Wisła Głębce - Częstochowa",2,FFFFFF,000000
-69708_77040,S76,"Gliwice - Wisła Głębce",2,FFFFFF,8A5438
-69708_76869,S75,"Gliwice - Zwardoń",2,FFFFFF,8A5438
-68700_77040,S77,"Racibórz - Wisła Głębce",2,FFFFFF,000000
-77040_68700,S77,"Wisła Głębce - Racibórz",2,FFFFFF,000000
-77040_69708,S76,"Wisła Głębce - Gliwice",2,FFFFFF,8A5438
-76869_69708,S75,"Zwardoń - Gliwice",2,FFFFFF,8A5438
-73312_77040,S6,"Katowice - Wisła Głębce",2,009600,FFFFFF
-62653_77040,S1/S6,"Częstochowa - Wisła Głębce",2,FFFFFF,000000
-73312_179223,S71,"Katowice - Bohumin",2,0096FF,FFFFFF
-68205_68403,S71,"Rybnik - Wodzisław Śląski",2,0096FF,FFFFFF
-68205_67900,S71,"Rybnik - Chałupki",2,0096FF,FFFFFF
-73312_68403,S71,"Katowice - Wodzisław Śląski",2,0096FF,FFFFFF
-68403_72900,S71,"Wodzisław Śląski - Katowice Ligota",2,0096FF,FFFFFF
-68403_73312,S71,"Wodzisław Śląski - Katowice",2,0096FF,FFFFFF
-67900_68205,S71,"Chałupki - Rybnik",2,0096FF,FFFFFF
-179223_73312,S71,"Bohumin - Katowice",2,0096FF,FFFFFF
-68403_68205,S71,"Wodzisław Śląski - Rybnik",2,0096FF,FFFFFF
-68205_68700,S7,"Rybnik - Racibórz",2,0096FF,FFFFFF
-72900_68700,S7,"Katowice Ligota - Racibórz",2,0096FF,FFFFFF
-73312_68700,S7,"Katowice - Racibórz",2,0096FF,FFFFFF
-68700_73312,S7,"Racibórz - Katowice",2,0096FF,FFFFFF
-68700_68205,S7,"Racibórz - Rybnik",2,0096FF,FFFFFF
-242839_73700,S4,"Tychy Lodowisko - Tychy",2,FF7800,FFFFFF
-242839_73312,S4,"Tychy Lodowisko - Katowice",2,FF7800,FFFFFF
-242839_72900,S4,"Tychy Lodowisko - Katowice Ligota",2,FF7800,FFFFFF
-73700_242839,S4,"Tychy - Tychy Lodowisko",2,FF7800,FFFFFF
-73312_242839,S4,"Katowice - Tychy Lodowisko",2,FF7800,FFFFFF
-72900_242839,S4,"Katowice Ligota - Tychy Lodowisko",2,FF7800,FFFFFF
-73312_75655,S62,"Katowice - Cieszyn",2,009600,FFFFFF
-76000_77040,S6,"Czechowice-Dziedzice - Wisła Głębce",2,009600,FFFFFF
-75655_73312,S6,"Cieszyn - Katowice",2,009600,FFFFFF
-77040_76000,S6,"Wisła Głębce - Czechowice-Dziedzice",2,009600,FFFFFF
-73312_76869,S5,"Katowice - Zwardoń",2,FFB900,FFFFFF
-76109_76869,S5,"Bielsko-Biała Główna - Zwardoń",2,FFB900,FFFFFF
-62653_76869,S1/S5,"Częstochowa - Zwardoń",2,FFFFFF,000000
-76869_62653,S5/S1,"Zwardoń - Częstochowa",2,FFFFFF,000000
-76869_76000,S5,"Zwardoń - Czechowice-Dziedzice",2,FFB900,FFFFFF
-73312_76604,S5,"Katowice - Żywiec",2,FFB900,FFFFFF
-73312_76737,S5,"Katowice - Węgierska Górka",2,FFB900,FFFFFF
-76000_76604,S5,"Czechowice-Dziedzice - Żywiec",2,FFB900,FFFFFF
-76109_76604,S5,"Bielsko-Biała Główna - Żywiec",2,FFB900,FFFFFF
-73700_76000,S5,"Tychy - Czechowice-Dziedzice",2,FFB900,FFFFFF
-73312_76000,S5,"Katowice - Czechowice-Dziedzice",2,FFB900,FFFFFF
-76604_76109,S5,"Żywiec - Bielsko-Biała Główna",2,FFB900,FFFFFF
-76737_73312,S5,"Węgierska Górka - Katowice",2,FFB900,FFFFFF
-76109_73312,S5,"Bielsko-Biała Główna - Katowice",2,FFB900,FFFFFF
-76604_76000,S5,"Żywiec - Czechowice-Dziedzice",2,FFB900,FFFFFF
-76604_73700,S5,"Żywiec - Tychy",2,FFB900,FFFFFF
+route_long_name,route_short_name,route_type,route_id,route_color,route_text_color
+Bielsko-Biała Główna - Częstochowa,S5/S1,2,76109_62653,,
+Bielsko-Biała Główna - Katowice,S5,2,76109_73312,FFB900,FFFFFF
+Bielsko-Biała Główna - Rybnik,S72,2,76109_68205,8C008C,FFFFFF
+Bielsko-Biała Główna - Zwardoń,S5,2,76109_76869,FFB900,FFFFFF
+Bielsko-Biała Główna - Żywiec,S5,2,76109_76604,FFB900,FFFFFF
+Bohumin - Katowice,S71,2,179223_73312,0096FF,FFFFFF
+Bytom - Gliwice,S18,2,72306_69708,CC0066,FFFFFF
+Bytom - Lubliniec,S8,2,72306_71407,000096,FFFFFF
+Chałupki - Katowice,S71,2,67900_73312,0096FF,FFFFFF
+Chałupki - Racibórz,S78,2,67900_68700,828C96,FFFFFF
+Chałupki - Rybnik,S71,2,67900_68205,0096FF,FFFFFF
+Chorzew Siemkowice - Chorzów Batory,S82,2,72058_73106,,
+Chorzów Batory - Chorzew Siemkowice,S82,2,73106_72058,,
+Chorzów Batory - Częstochowa,S9,2,73106_62653,,
+Chorzów Batory - Dąbrowa Górnicza,S1,2,73106_74583,FF0000,FFFFFF
+Chorzów Batory - Kłobuck,S82,2,73106_71944,,
+Chorzów Batory - Lubliniec,S8,2,73106_71407,000096,FFFFFF
+Chorzów Batory - Tarnowskie Góry,S8,2,73106_71001,000096,FFFFFF
+Chorzów Batory - Zawiercie,S9,2,73106_75309,,
+Chybie - Cieszyn,S61,2,75796_75655,1D6434,FFFFFF
+Cieszyn - Chybie,S61,2,75655_75796,1D6434,FFFFFF
+Cieszyn - Czechowice-Dziedzice,S61,2,75655_76000,1D6434,FFFFFF
+Cieszyn - Goleszów,S62,2,75655_76901,009600,FFFFFF
+Cieszyn - Katowice,S6,2,75655_73312,009600,FFFFFF
+Cieszyn - Pierściec,S62,2,75655_75762,009600,FFFFFF
+Cieszyn - Skoczów,S62,2,75655_75788,009600,FFFFFF
+Cieszyn - Wisła Głębce,S62/S6,2,75655_77040,,
+Czechowice-Dziedzice - Cieszyn,S61,2,76000_75655,1D6434,FFFFFF
+Czechowice-Dziedzice - Katowice,S5,2,76000_73312,FFB900,FFFFFF
+Czechowice-Dziedzice - Rybnik,S72,2,76000_68205,8C008C,FFFFFF
+Czechowice-Dziedzice - Skoczów,S6,2,76000_75788,009600,FFFFFF
+Czechowice-Dziedzice - Wisła Głębce,S6,2,76000_77040,009600,FFFFFF
+Czechowice-Dziedzice - Żywiec,S5,2,76000_76604,FFB900,FFFFFF
+Częstochowa - Bielsko-Biała Główna,S1/S5,2,62653_76109,,
+Częstochowa - Chorzów Batory,S9,2,62653_73106,,
+Częstochowa - Gliwice,S1,2,62653_69708,FF0000,FFFFFF
+Częstochowa - Katowice,S9,2,62653_73312,,
+Częstochowa - Kraków Główny,S34,2,62653_80416,,
+Częstochowa - Kraków Płaszów,S34,2,62653_79905,,
+Częstochowa - Lubliniec,S13,2,62653_71407,00D29B,FFFFFF
+Częstochowa - Tarnowskie Góry,S9,2,62653_71001,,
+Częstochowa - Wisła Głębce,S1/S6,2,62653_77040,,
+Częstochowa - Zakopane,S51,2,62653_79020,,FFB900
+Częstochowa - Zwardoń,S1/S5,2,62653_76869,,
+Częstochowa - Łazy,S1,2,62653_75200,FF0000,FFFFFF
+Dąbrowa Górnicza - Gliwice,S1,2,74583_69708,FF0000,FFFFFF
+Dąbrowa Górnicza - Zawiercie,S1,2,74583_75309,FF0000,FFFFFF
+Dąbrowa Górnicza Ząbkowice - Gliwice,S1,2,74500_69708,FF0000,FFFFFF
+Dąbrowa Górnicza Ząbkowice - Zawiercie,S1,2,74500_75309,FF0000,FFFFFF
+Dąbrowa Górnicza Ząbkowice - Łazy,S1,2,74500_75200,FF0000,FFFFFF
+Gliwice - Bytom,S18,2,69708_72306,CC0066,FFFFFF
+Gliwice - Chorzów Batory,S1,2,69708_73106,FF0000,FFFFFF
+Gliwice - Częstochowa,S1,2,69708_62653,FF0000,FFFFFF
+Gliwice - Dąbrowa Górnicza,S1,2,69708_74583,FF0000,FFFFFF
+Gliwice - Dąbrowa Górnicza Ząbkowice,S1,2,69708_74500,FF0000,FFFFFF
+Gliwice - Katowice,S1,2,69708_73312,FF0000,FFFFFF
+Gliwice - Racibórz,S17/S7,2,69708_68700,,
+Gliwice - Rybnik,S17,2,69708_68205,,
+Gliwice - Wisła Głębce,S76,2,69708_77040,,8A5438
+Gliwice - Wodzisław Śląski,S17,2,69708_68403,,
+Gliwice - Zawiercie,S1,2,69708_75309,FF0000,FFFFFF
+Gliwice - Zwardoń,S75,2,69708_76869,,8A5438
+Goleszów - Cieszyn,S62,2,76901_75655,009600,FFFFFF
+Goleszów - Wisła Głębce,S62,2,76901_77040,009600,FFFFFF
+Katowice - Bielsko-Biała Główna,S5,2,73312_76109,FFB900,FFFFFF
+Katowice - Bohumin,S71,2,73312_179223,0096FF,FFFFFF
+Katowice - Chałupki,S71,2,73312_67900,0096FF,FFFFFF
+Katowice - Chorzew Siemkowice,S82,2,73312_72058,,
+Katowice - Cieszyn,S62,2,73312_75655,009600,FFFFFF
+Katowice - Czechowice-Dziedzice,S5,2,73312_76000,FFB900,FFFFFF
+Katowice - Częstochowa,S1,2,73312_62653,FF0000,FFFFFF
+Katowice - Gliwice,S1,2,73312_69708,FF0000,FFFFFF
+Katowice - Katowice Ligota,S7,2,73312_72900,0096FF,FFFFFF
+Katowice - Kraków Płaszów,S3,2,73312_79905,FF66CC,FFFFFF
+Katowice - Lubliniec,S8,2,73312_71407,000096,FFFFFF
+Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
+Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
+Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
+Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
+Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
+Katowice - Wodzisław Śląski,S71,2,73312_68403,0096FF,FFFFFF
+Katowice - Węgierska Górka,S5,2,73312_76737,FFB900,FFFFFF
+Katowice - Zwardoń,S5,2,73312_76869,FFB900,FFFFFF
+Katowice - Żywiec,S5,2,73312_76604,FFB900,FFFFFF
+Katowice Ligota - Racibórz,S7,2,72900_68700,0096FF,FFFFFF
+Katowice Ligota - Tychy Lodowisko,S4,2,72900_242839,FF7800,FFFFFF
+Kraków Główny - Częstochowa,S34,2,80416_62653,,
+Kraków Płaszów - Częstochowa,S34,2,79905_62653,,
+Kraków Płaszów - Katowice,S3,2,79905_73312,FF66CC,FFFFFF
+Kłobuck - Chorzów Batory,S82,2,71944_73106,,
+Lubliniec - Bytom,S8,2,71407_72306,000096,FFFFFF
+Lubliniec - Chorzów Batory,S8,2,71407_73106,000096,FFFFFF
+Lubliniec - Częstochowa,S13,2,71407_62653,00D29B,FFFFFF
+Lubliniec - Katowice,S8,2,71407_73312,000096,FFFFFF
+Mysłowice - Oświęcim,S31,2,73502_77107,000096,FFFFFF
+Orzesze Jaśkowice - Tychy,S74,2,68148_73700,,
+Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
+Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
+Pierściec - Cieszyn,S62,2,75762_75655,009600,FFFFFF
+Racibórz - Chałupki,S78,2,68700_67900,828C96,FFFFFF
+Racibórz - Gliwice,S7/S17,2,68700_69708,,
+Racibórz - Katowice,S7,2,68700_73312,0096FF,FFFFFF
+Racibórz - Rybnik,S7,2,68700_68205,0096FF,FFFFFF
+Racibórz - Wisła Głębce,S77,2,68700_77040,,
+Racibórz - Żory,S7/S72,2,68700_69203,,
+Rybnik - Bielsko-Biała Główna,S72,2,68205_76109,8C008C,FFFFFF
+Rybnik - Chałupki,S71,2,68205_67900,0096FF,FFFFFF
+Rybnik - Czechowice-Dziedzice,S72,2,68205_76000,8C008C,FFFFFF
+Rybnik - Gliwice,S17,2,68205_69708,,
+Rybnik - Racibórz,S7,2,68205_68700,0096FF,FFFFFF
+Rybnik - Tychy,S74,2,68205_73700,,
+Rybnik - Wodzisław Śląski,S71,2,68205_68403,0096FF,FFFFFF
+Rybnik - Żory,S72,2,68205_69203,8C008C,FFFFFF
+Rybnik - Żywiec,S72,2,68205_76604,8C008C,FFFFFF
+Skalite - Zwardoń,ZSSK,2,179282_76869,,
+Skoczów - Cieszyn,S62,2,75788_75655,009600,FFFFFF
+Skoczów - Czechowice-Dziedzice,S6,2,75788_76000,009600,FFFFFF
+Tarnowskie Góry - Częstochowa,S9,2,71001_62653,,
+Tychy - Czechowice-Dziedzice,S5,2,73700_76000,FFB900,FFFFFF
+Tychy - Orzesze Jaśkowice,S74,2,73700_68148,,
+Tychy - Rybnik,S74,2,73700_68205,,
+Tychy - Tychy Lodowisko,S4,2,73700_242839,FF7800,FFFFFF
+Tychy Lodowisko - Katowice,S4,2,242839_73312,FF7800,FFFFFF
+Tychy Lodowisko - Katowice Ligota,S4,2,242839_72900,FF7800,FFFFFF
+Tychy Lodowisko - Tychy,S4,2,242839_73700,FF7800,FFFFFF
+Wisła Głębce - Cieszyn,S6/S62,2,77040_75655,,
+Wisła Głębce - Czechowice-Dziedzice,S6,2,77040_76000,009600,FFFFFF
+Wisła Głębce - Częstochowa,S6/S1,2,77040_62653,,
+Wisła Głębce - Gliwice,S76,2,77040_69708,,8A5438
+Wisła Głębce - Goleszów,S62,2,77040_76901,009600,FFFFFF
+Wisła Głębce - Katowice,S6,2,77040_73312,009600,FFFFFF
+Wisła Głębce - Racibórz,S77,2,77040_68700,,
+Wodzisław Śląski - Gliwice,S17,2,68403_69708,,
+Wodzisław Śląski - Katowice,S71,2,68403_73312,0096FF,FFFFFF
+Wodzisław Śląski - Katowice Ligota,S71,2,68403_72900,0096FF,FFFFFF
+Wodzisław Śląski - Rybnik,S71,2,68403_68205,0096FF,FFFFFF
+Wodzisław Śląski - Żory,S71/S72,2,68403_69203,,
+Węgierska Górka - Katowice,S5,2,76737_73312,FFB900,FFFFFF
+Zakopane - Częstochowa,S51,2,79020_62653,,FFB900
+Zawiercie - Chorzów Batory,S9,2,75309_73106,,
+Zawiercie - Częstochowa,S1,2,75309_62653,FF0000,FFFFFF
+Zawiercie - Dąbrowa Górnicza Ząbkowice,S1,2,75309_74500,FF0000,FFFFFF
+Zawiercie - Gliwice,S1,2,75309_69708,FF0000,FFFFFF
+Zwardoń - Czechowice-Dziedzice,S5,2,76869_76000,FFB900,FFFFFF
+Zwardoń - Częstochowa,S5/S1,2,76869_62653,,
+Zwardoń - Gliwice,S75,2,76869_69708,,8A5438
+Zwardoń - Katowice,S5,2,76869_73312,FFB900,FFFFFF
+Zwardoń - Skalite,ZSSK,2,76869_179282,,
+Łazy - Częstochowa,S1,2,75200_62653,FF0000,FFFFFF
+Żory - Racibórz,S72/S7,2,69203_68700,,
+Żory - Rybnik,S72,2,69203_68205,8C008C,FFFFFF
+Żory - Wodzisław Śląski,S72/S71,2,69203_68403,,
+Żywiec - Bielsko-Biała Główna,S5,2,76604_76109,FFB900,FFFFFF
+Żywiec - Czechowice-Dziedzice,S5,2,76604_76000,FFB900,FFFFFF
+Żywiec - Katowice,S5,2,76604_73312,FFB900,FFFFFF
+Żywiec - Rybnik,S72,2,76604_68205,8C008C,FFFFFF
+Żywiec - Tychy,S5,2,76604_73700,FFB900,FFFFFF
