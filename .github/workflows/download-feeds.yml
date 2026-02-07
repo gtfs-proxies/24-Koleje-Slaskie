@@ -7,11 +7,13 @@ on:
       - 'main'
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '30 23 * * *'
+    - cron: '30 03 * * *'
 
 env:
   FEED_NAME: "24-Koleje-Slaskie"
-
+concurrency:
+  group: download-feeds-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   download:
     permissions:
@@ -25,65 +27,82 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
+      - name: Calculate version
+        id: version
+        run: |
+          YEAR=$(date +'%Y')
+          LAST_TAG=$(git tag -l "${YEAR}.*" | sort -V | tail -1)
+          if [ -z "$LAST_TAG" ]; then
+            VERSION="${YEAR}.1"
+          else
+            NUM=$(echo "$LAST_TAG" | cut -d. -f2)
+            NUM=$((NUM + 1))
+            VERSION="${YEAR}.${NUM}"
+          fi
+          echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
+
       - name: Restore cached feed
         id: cache-feed-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed
+          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
+          restore-keys: |
+            feed-${{ steps.version.outputs.VERSION }}-
+            feed-
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.20'
+
+      - name: Install gtfstidy
+        id: install-gtfstidy
+        run: go install github.com/patrickbr/gtfstidy@latest
 
       - name: Download GTFS feeds
         run: bash download.sh
       
       - name: Save feed
         id: cache-feed-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed
+          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
+
+      - name: Run gtfstidy
+        id: run-gtfstidy
+        run: gtfstidy -WSCRmTcsOD --keep-service-ids -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/original/*.zip
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
 
-      - name: Get current date
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
         with:
-          commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
+          commit_message: Add new feeds (${{ steps.version.outputs.VERSION }})
           file_pattern: 'feed/'
           branch: main
-          # Optional. Tag name being created in the local repository and 
-          # pushed to remote repository and defined branch.
-          tagging_message: ${{ steps.date.outputs.DATE }}
+
+      - name: Tag release
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        continue-on-error: true
+        run: |
+          git tag ${{ steps.version.outputs.VERSION }}
+          git push origin ${{ steps.version.outputs.VERSION }}
 
       - name: Zip GTFS feeds
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         id: zip
-        run: zip -oj ${{ env.FEED_NAME }} feed/*
+        run: zip -oj9 ${{ env.FEED_NAME }}.zip feed/*
 
-      - name: Create Release
+      - name: Create Release with Asset
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.date.outputs.DATE }}
-          release_name: Release ${{ steps.date.outputs.DATE }}
+          tag_name: ${{ steps.version.outputs.VERSION }}
+          name: Release ${{ steps.version.outputs.VERSION }}
           draft: false
           prerelease: false
-      
-      - name: Upload Release Asset
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ./${{ env.FEED_NAME }}.zip
-          asset_name: ${{ env.FEED_NAME }}.zip
-          asset_content_type: application/zip
+          files: ${{ env.FEED_NAME }}.zip
+          fail_on_unmatched_files: true
