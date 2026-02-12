@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_start_date,feed_end_date
-GTFS Proxies (Koleje Śląskie),https://github.com/gtfs-proxies,pl,2026.6,start_date,20261212
+GTFS Proxies (Koleje Śląskie),https://github.com/gtfs-proxies,pl,2026.7,start_date,20261212
