@@ -83,7 +83,6 @@ Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
-Katowice - Wisła Uzdrowisko,KSL,2,73312_76992,,
 Katowice - Wodzisław Śląski,S71,2,73312_68403,0096FF,FFFFFF
 Katowice - Węgierska Górka,S5,2,73312_76737,FFB900,FFFFFF
 Katowice - Zwardoń,S5,2,73312_76869,FFB900,FFFFFF
@@ -151,7 +150,6 @@ Wisła Głębce - Goleszów,S62,2,77040_76901,009600,FFFFFF
 Wisła Głębce - Katowice,S6,2,77040_73312,009600,FFFFFF
 Wisła Głębce - Racibórz,S77,2,77040_68700,,
 Wisła Głębce - Tychy,S6,2,77040_73700,009600,FFFFFF
-Wisła Uzdrowisko - Katowice,KSL,2,76992_73312,,
 Wodzisław Śląski - Gliwice,S17,2,68403_69708,,
 Wodzisław Śląski - Katowice,S71,2,68403_73312,0096FF,FFFFFF
 Wodzisław Śląski - Katowice Ligota,S71,2,68403_72900,0096FF,FFFFFF
