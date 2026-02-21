@@ -138,7 +138,7 @@ Tychy - Orzesze Jaśkowice,S74,2,73700_68148,,
 Tychy - Rybnik,S74,2,73700_68205,,
 Tychy - Tychy Lodowisko,S4,2,73700_242839,FF7800,FFFFFF
 Tychy - Wisła Głębce,S6,2,73700_77040,009600,FFFFFF
-Tychy - Żywiec,KSL,2,73700_76604,,
+Tychy - Żywiec,S5,2,73700_76604,FFB900,FFFFFF
 Tychy Lodowisko - Katowice,S4,2,242839_73312,FF7800,FFFFFF
 Tychy Lodowisko - Katowice Ligota,S4,2,242839_72900,FF7800,FFFFFF
 Tychy Lodowisko - Tychy,S4,2,242839_73700,FF7800,FFFFFF
