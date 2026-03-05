@@ -90,6 +90,7 @@ Katowice - Łodygowice,S5,2,73312_76422,FFB900,FFFFFF
 Katowice - Żywiec,S5,2,73312_76604,FFB900,FFFFFF
 Katowice Ligota - Bohumin,S71,2,72900_179223,0096FF,FFFFFF
 Katowice Ligota - Chałupki,S71,2,72900_67900,0096FF,FFFFFF
+Katowice Ligota - Katowice,S7,2,72900_73312,0096FF,FFFFFF
 Katowice Ligota - Racibórz,S7,2,72900_68700,0096FF,FFFFFF
 Katowice Ligota - Tychy Lodowisko,S4,2,72900_242839,FF7800,FFFFFF
 Katowice Piotrowice - Bohumin,S71,2,72967_179223,0096FF,FFFFFF
