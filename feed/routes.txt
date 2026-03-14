@@ -1,4 +1,5 @@
 route_long_name,route_short_name,route_type,route_id,route_color,route_text_color
+Bielsko-Biała Główna - Czechowice-Dziedzice,POCIĄG,2,76109_76000,,
 Bielsko-Biała Główna - Częstochowa,S5/S1,2,76109_62653,,
 Bielsko-Biała Główna - Katowice,S5,2,76109_73312,FFB900,FFFFFF
 Bielsko-Biała Główna - Rybnik,S72,2,76109_68205,8C008C,FFFFFF
@@ -29,6 +30,7 @@ Cieszyn - Katowice,S6,2,75655_73312,009600,FFFFFF
 Cieszyn - Pierściec,S62,2,75655_75762,009600,FFFFFF
 Cieszyn - Skoczów,S62,2,75655_75788,009600,FFFFFF
 Cieszyn - Wisła Głębce,S62/S6,2,75655_77040,,
+Czechowice-Dziedzice - Bielsko-Biała Główna,POCIĄG,2,76000_76109,,
 Czechowice-Dziedzice - Cieszyn,S61,2,76000_75655,1D6434,FFFFFF
 Czechowice-Dziedzice - Katowice,S5,2,76000_73312,FFB900,FFFFFF
 Czechowice-Dziedzice - Rybnik,S72,2,76000_68205,8C008C,FFFFFF
@@ -80,6 +82,7 @@ Katowice - Kraków Płaszów,S3,2,73312_79905,FF66CC,FFFFFF
 Katowice - Lubliniec,S8,2,73312_71407,000096,FFFFFF
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
 Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
+Katowice - Rajcza,S5,2,73312_76786,FFB900,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
@@ -118,6 +121,7 @@ Racibórz - Katowice Piotrowice,S7,2,68700_72967,0096FF,FFFFFF
 Racibórz - Rybnik,S7,2,68700_68205,0096FF,FFFFFF
 Racibórz - Wisła Głębce,S77,2,68700_77040,,
 Racibórz - Żory,S7/S72,2,68700_69203,,
+Rajcza - Zwardoń,S5,2,76786_76869,FFB900,FFFFFF
 Rybnik - Bielsko-Biała Główna,S72,2,68205_76109,8C008C,FFFFFF
 Rybnik - Chałupki,S71,2,68205_67900,0096FF,FFFFFF
 Rybnik - Czechowice-Dziedzice,S72,2,68205_76000,8C008C,FFFFFF
