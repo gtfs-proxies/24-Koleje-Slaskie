@@ -1,5 +1,4 @@
 route_long_name,route_short_name,route_type,route_id,route_color,route_text_color
-Bielsko-Biała Główna - Czechowice-Dziedzice,POCIĄG,2,76109_76000,,
 Bielsko-Biała Główna - Częstochowa,S5/S1,2,76109_62653,,
 Bielsko-Biała Główna - Katowice,S5,2,76109_73312,FFB900,FFFFFF
 Bielsko-Biała Główna - Rybnik,S72,2,76109_68205,8C008C,FFFFFF
@@ -30,7 +29,6 @@ Cieszyn - Katowice,S6,2,75655_73312,009600,FFFFFF
 Cieszyn - Pierściec,S62,2,75655_75762,009600,FFFFFF
 Cieszyn - Skoczów,S62,2,75655_75788,009600,FFFFFF
 Cieszyn - Wisła Głębce,S62/S6,2,75655_77040,,
-Czechowice-Dziedzice - Bielsko-Biała Główna,POCIĄG,2,76000_76109,,
 Czechowice-Dziedzice - Cieszyn,S61,2,76000_75655,1D6434,FFFFFF
 Czechowice-Dziedzice - Katowice,S5,2,76000_73312,FFB900,FFFFFF
 Czechowice-Dziedzice - Rybnik,S72,2,76000_68205,8C008C,FFFFFF
