@@ -50,7 +50,6 @@ Częstochowa - Łazy,S1,2,62653_75200,FF0000,FFFFFF
 Dąbrowa Górnicza - Gliwice,S1,2,74583_69708,FF0000,FFFFFF
 Dąbrowa Górnicza - Zawiercie,S1,2,74583_75309,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Gliwice,S1,2,74500_69708,FF0000,FFFFFF
-Dąbrowa Górnicza Ząbkowice - Zawiercie,S1,2,74500_75309,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Łazy,KSL,2,74500_75200,,
 Gliwice - Bytom,S18,2,69708_72306,CC0066,FFFFFF
 Gliwice - Chorzów Batory,S1,2,69708_73106,FF0000,FFFFFF
@@ -106,7 +105,6 @@ Orzesze Jaśkowice - Tychy,S74,2,68148_73700,,
 Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
 Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
 Pierściec - Cieszyn,S62,2,75762_75655,009600,FFFFFF
-Pyrzowice Lotnisko - Częstochowa,S9,2,265126_62653,,
 Racibórz - Chałupki,S78,2,68700_67900,828C96,FFFFFF
 Racibórz - Gliwice,S7/S17,2,68700_69708,,
 Racibórz - Katowice,S7,2,68700_73312,0096FF,FFFFFF
@@ -129,7 +127,6 @@ Skoczów - Cieszyn,S62,2,75788_75655,009600,FFFFFF
 Skoczów - Czechowice-Dziedzice,S6,2,75788_76000,009600,FFFFFF
 Skoczów - Katowice,S6,2,75788_73312,009600,FFFFFF
 Tarnowskie Góry - Częstochowa,S9,2,71001_62653,,
-Tarnowskie Góry - Pyrzowice Lotnisko,S9,2,71001_265126,,
 Tychy - Cieszyn,S6/S62,2,73700_75655,,
 Tychy - Orzesze Jaśkowice,S74,2,73700_68148,,
 Tychy - Rybnik,S74,2,73700_68205,,
@@ -155,7 +152,6 @@ Wodzisław Śląski - Żory,S71/S72,2,68403_69203,,
 Węgierska Górka - Katowice,S5,2,76737_73312,FFB900,FFFFFF
 Zakopane - Częstochowa,S51,2,79020_62653,,FFB900
 Zawiercie - Chorzów Batory,S9,2,75309_73106,,
-Zawiercie - Częstochowa,S1,2,75309_62653,FF0000,FFFFFF
 Zawiercie - Dąbrowa Górnicza Ząbkowice,S1,2,75309_74500,FF0000,FFFFFF
 Zawiercie - Gliwice,S1,2,75309_69708,FF0000,FFFFFF
 Zwardoń - Czechowice-Dziedzice,S5,2,76869_76000,FFB900,FFFFFF
