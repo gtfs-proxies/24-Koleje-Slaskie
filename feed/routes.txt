@@ -177,6 +177,7 @@ Wodzisław Śląski - Katowice Piotrowice,S71,2,68403_72967,0096FF,FFFFFF
 Wodzisław Śląski - Rybnik,S71,2,68403_68205,0096FF,FFFFFF
 Wodzisław Śląski - Żory,S71/S72,2,68403_69203,,
 Węgierska Górka - Katowice,S5,2,76737_73312,FFB900,FFFFFF
+Węgierska Górka - Tychy,S5,2,76737_73700,FFB900,FFFFFF
 Zakopane - Częstochowa,S51,2,79020_62653,,FFB900
 Zawiercie - Bytom,S9,2,75309_72306,,
 Zawiercie - Chorzów Batory,S9,2,75309_73106,,
