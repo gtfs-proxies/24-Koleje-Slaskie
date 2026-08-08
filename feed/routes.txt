@@ -95,10 +95,10 @@ Katowice - Gliwice,S1,2,73312_69708,FF0000,FFFFFF
 Katowice - Katowice Ligota,S7,2,73312_72900,0096FF,FFFFFF
 Katowice - Katowice Piotrowice,S7,2,73312_72967,0096FF,FFFFFF
 Katowice - Kraków Płaszów,S3,2,73312_79905,FF66CC,FFFFFF
-Katowice - Leszczyny,KSL,2,73312_68064,,
+Katowice - Leszczyny,S71,2,73312_68064,0096FF,FFFFFF
 Katowice - Lubliniec,S8,2,73312_71407,000096,FFFFFF
-Katowice - Orzesze,S7,2,73312_69005,0096FF,FFFFFF
-Katowice - Orzesze Jaśkowice,S71,2,73312_68148,0096FF,FFFFFF
+Katowice - Orzesze,S70,2,73312_69005,,
+Katowice - Orzesze Jaśkowice,S70,2,73312_68148,,
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
 Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
@@ -114,7 +114,7 @@ Katowice Ligota - Chałupki,S71,2,72900_67900,0096FF,FFFFFF
 Katowice Ligota - Katowice,KSL,2,72900_73312,,
 Katowice Ligota - Racibórz,S7,2,72900_68700,0096FF,FFFFFF
 Katowice Ligota - Tychy,S5,2,72900_73700,FFB900,FFFFFF
-Katowice Ligota - Tychy Lodowisko,KSL,2,72900_242839,,
+Katowice Ligota - Tychy Lodowisko,S4,2,72900_242839,FF7800,FFFFFF
 Katowice Piotrowice - Bohumin,S71,2,72967_179223,0096FF,FFFFFF
 Katowice Piotrowice - Chałupki,S71,2,72967_67900,0096FF,FFFFFF
 Katowice Piotrowice - Orzesze,S71,2,72967_69005,0096FF,FFFFFF
@@ -126,7 +126,7 @@ Kłobuck - Bytom,S82,2,71944_72306,,
 Kłobuck - Chorzew Siemkowice,S82,2,71944_72058,,
 Kłobuck - Chorzów Batory,S82,2,71944_73106,,
 Leszczyny - Chałupki,S71,2,68064_67900,0096FF,FFFFFF
-Leszczyny - Katowice,KSL,2,68064_73312,,
+Leszczyny - Katowice,S71,2,68064_73312,0096FF,FFFFFF
 Leszczyny - Orzesze,S71,2,68064_69005,0096FF,FFFFFF
 Leszczyny - Wodzisław Śląski,S71,2,68064_68403,0096FF,FFFFFF
 Lubliniec - Bytom,S8,2,71407_72306,000096,FFFFFF
@@ -137,10 +137,10 @@ Mikołów - Katowice,S7,2,69062_73312,0096FF,FFFFFF
 Mysłowice - Oświęcim,S31,2,73502_77107,000096,FFFFFF
 Orzesze - Bohumin,S71,2,69005_179223,0096FF,FFFFFF
 Orzesze - Chałupki,S71,2,69005_67900,0096FF,FFFFFF
-Orzesze - Katowice,S7,2,69005_73312,0096FF,FFFFFF
+Orzesze - Katowice,S70,2,69005_73312,,
 Orzesze - Leszczyny,S71,2,69005_68064,0096FF,FFFFFF
 Orzesze - Racibórz,S7,2,69005_68700,0096FF,FFFFFF
-Orzesze Jaśkowice - Katowice,S7,2,68148_73312,0096FF,FFFFFF
+Orzesze Jaśkowice - Katowice,S70,2,68148_73312,,
 Orzesze Jaśkowice - Tychy,S74,2,68148_73700,,
 Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
 Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
