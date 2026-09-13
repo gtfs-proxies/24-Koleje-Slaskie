@@ -54,6 +54,7 @@ Czechowice-Dziedzice - Żywiec,KSL,2,76000_76604,,
 Częstochowa - Bielsko-Biała Główna,S1/S5,2,62653_76109,,
 Częstochowa - Bytom,S9,2,62653_72306,,
 Częstochowa - Chorzów Batory,S9,2,62653_73106,,
+Częstochowa - Dąbrowa Górnicza Ząbkowice,S1,2,62653_74500,FF0000,FFFFFF
 Częstochowa - Gliwice,S1,2,62653_69708,FF0000,FFFFFF
 Częstochowa - Katowice,S9,2,62653_73312,,
 Częstochowa - Kraków Główny,S34,2,62653_80416,,
@@ -63,10 +64,12 @@ Częstochowa - Sosnowiec Główny,AIR,2,62653_74658,,
 Częstochowa - Tarnowskie Góry,S9,2,62653_71001,,
 Częstochowa - Wisła Głębce,S1/S6,2,62653_77040,,
 Częstochowa - Zakopane,S51,2,62653_79020,,FFB900
+Częstochowa - Zawiercie,S1,2,62653_75309,FF0000,FFFFFF
 Częstochowa - Zwardoń,S1/S5,2,62653_76869,,
 Częstochowa - Łazy,S1,2,62653_75200,FF0000,FFFFFF
 Dąbrowa Górnicza - Gliwice,S1,2,74583_69708,FF0000,FFFFFF
 Dąbrowa Górnicza - Zawiercie,S1,2,74583_75309,FF0000,FFFFFF
+Dąbrowa Górnicza Ząbkowice - Częstochowa,S1,2,74500_62653,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Gliwice,S1,2,74500_69708,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Łazy,KSL,2,74500_75200,,
 Gliwice - Bytom,S18,2,69708_72306,CC0066,FFFFFF
@@ -101,6 +104,7 @@ Katowice - Orzesze,S70,2,73312_69005,,
 Katowice - Orzesze Jaśkowice,S70,2,73312_68148,,
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
 Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
+Katowice - Rybnik,S71,2,73312_68205,0096FF,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
@@ -146,7 +150,6 @@ Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
 Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
 Pierściec - Cieszyn,S62,2,75762_75655,009600,FFFFFF
 Pszczyna - Katowice,KSL,2,75903_73312,,
-Pszczyna - Rybnik,S72,2,75903_68205,8C008C,FFFFFF
 Pszczyna - Żory,KSL,2,75903_69203,,
 Racibórz - Chałupki,S78,2,68700_67900,828C96,FFFFFF
 Racibórz - Gliwice,S7/S17,2,68700_69708,,
@@ -202,6 +205,7 @@ Węgierska Górka - Katowice,S5,2,76737_73312,FFB900,FFFFFF
 Zakopane - Częstochowa,S51,2,79020_62653,,FFB900
 Zawiercie - Bytom,S9,2,75309_72306,,
 Zawiercie - Chorzów Batory,S9,2,75309_73106,,
+Zawiercie - Częstochowa,S1,2,75309_62653,FF0000,FFFFFF
 Zawiercie - Dąbrowa Górnicza Ząbkowice,S1,2,75309_74500,FF0000,FFFFFF
 Zawiercie - Gliwice,S1,2,75309_69708,FF0000,FFFFFF
 Zebrzydowice - Gliwice,NA,2,75507_69708,,
