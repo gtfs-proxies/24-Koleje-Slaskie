@@ -29,7 +29,6 @@ Chorzew Siemkowice - Chorzów Batory,S82,2,72058_73106,,
 Chorzew Siemkowice - Kłobuck,S82,2,72058_71944,,
 Chorzów Batory - Chorzew Siemkowice,S82,2,73106_72058,,
 Chorzów Batory - Częstochowa,S9,2,73106_62653,,
-Chorzów Batory - Dąbrowa Górnicza,S1,2,73106_74583,FF0000,FFFFFF
 Chorzów Batory - Kłobuck,S82,2,73106_71944,,
 Chorzów Batory - Lubliniec,S8,2,73106_71407,000096,FFFFFF
 Chorzów Batory - Tarnowskie Góry,S8,2,73106_71001,000096,FFFFFF
@@ -46,7 +45,6 @@ Czechowice-Dziedzice - Bielsko-Biała Główna,POCIĄG,2,76000_76109,,
 Czechowice-Dziedzice - Cieszyn,S61,2,76000_75655,1D6434,FFFFFF
 Czechowice-Dziedzice - Katowice,S5,2,76000_73312,FFB900,FFFFFF
 Czechowice-Dziedzice - Racibórz,S72/S7,2,76000_68700,,
-Czechowice-Dziedzice - Rybnik,S72,2,76000_68205,8C008C,FFFFFF
 Czechowice-Dziedzice - Skoczów,S6,2,76000_75788,009600,FFFFFF
 Czechowice-Dziedzice - Wisła Głębce,S6,2,76000_77040,009600,FFFFFF
 Czechowice-Dziedzice - Zwardoń,S5,2,76000_76869,FFB900,FFFFFF
@@ -54,7 +52,6 @@ Czechowice-Dziedzice - Żywiec,KSL,2,76000_76604,,
 Częstochowa - Bielsko-Biała Główna,S1/S5,2,62653_76109,,
 Częstochowa - Bytom,S9,2,62653_72306,,
 Częstochowa - Chorzów Batory,S9,2,62653_73106,,
-Częstochowa - Dąbrowa Górnicza Ząbkowice,S1,2,62653_74500,FF0000,FFFFFF
 Częstochowa - Gliwice,S1,2,62653_69708,FF0000,FFFFFF
 Częstochowa - Katowice,S9,2,62653_73312,,
 Częstochowa - Kraków Główny,S34,2,62653_80416,,
@@ -69,11 +66,9 @@ Częstochowa - Zwardoń,S1/S5,2,62653_76869,,
 Częstochowa - Łazy,S1,2,62653_75200,FF0000,FFFFFF
 Dąbrowa Górnicza - Gliwice,S1,2,74583_69708,FF0000,FFFFFF
 Dąbrowa Górnicza - Zawiercie,S1,2,74583_75309,FF0000,FFFFFF
-Dąbrowa Górnicza Ząbkowice - Częstochowa,S1,2,74500_62653,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Gliwice,S1,2,74500_69708,FF0000,FFFFFF
 Dąbrowa Górnicza Ząbkowice - Łazy,KSL,2,74500_75200,,
 Gliwice - Bytom,S18,2,69708_72306,CC0066,FFFFFF
-Gliwice - Chorzów Batory,S1,2,69708_73106,FF0000,FFFFFF
 Gliwice - Częstochowa,S1,2,69708_62653,FF0000,FFFFFF
 Gliwice - Dąbrowa Górnicza,S1,2,69708_74583,FF0000,FFFFFF
 Gliwice - Dąbrowa Górnicza Ząbkowice,S1,2,69708_74500,FF0000,FFFFFF
@@ -104,7 +99,6 @@ Katowice - Orzesze,S70,2,73312_69005,,
 Katowice - Orzesze Jaśkowice,S70,2,73312_68148,,
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
 Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
-Katowice - Rybnik,S71,2,73312_68205,0096FF,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
@@ -150,7 +144,6 @@ Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
 Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
 Pierściec - Cieszyn,S62,2,75762_75655,009600,FFFFFF
 Pszczyna - Katowice,KSL,2,75903_73312,,
-Pszczyna - Żory,KSL,2,75903_69203,,
 Racibórz - Chałupki,S78,2,68700_67900,828C96,FFFFFF
 Racibórz - Gliwice,S7/S17,2,68700_69708,,
 Racibórz - Katowice,S7,2,68700_73312,0096FF,FFFFFF
@@ -164,7 +157,6 @@ Rybnik - Bielsko-Biała Główna,S72,2,68205_76109,8C008C,FFFFFF
 Rybnik - Chałupki,S71,2,68205_67900,0096FF,FFFFFF
 Rybnik - Czechowice-Dziedzice,S72,2,68205_76000,8C008C,FFFFFF
 Rybnik - Gliwice,S17,2,68205_69708,,
-Rybnik - Pszczyna,S72,2,68205_75903,8C008C,FFFFFF
 Rybnik - Racibórz,S7,2,68205_68700,0096FF,FFFFFF
 Rybnik - Tychy,S74,2,68205_73700,,
 Rybnik - Wodzisław Śląski,S71,2,68205_68403,0096FF,FFFFFF
@@ -205,18 +197,18 @@ Węgierska Górka - Katowice,S5,2,76737_73312,FFB900,FFFFFF
 Zakopane - Częstochowa,S51,2,79020_62653,,FFB900
 Zawiercie - Bytom,S9,2,75309_72306,,
 Zawiercie - Chorzów Batory,S9,2,75309_73106,,
-Zawiercie - Częstochowa,S1,2,75309_62653,FF0000,FFFFFF
 Zawiercie - Dąbrowa Górnicza Ząbkowice,S1,2,75309_74500,FF0000,FFFFFF
 Zawiercie - Gliwice,S1,2,75309_69708,FF0000,FFFFFF
 Zebrzydowice - Gliwice,NA,2,75507_69708,,
+Zwardoń - Bielsko-Biała Główna,S5,2,76869_76109,FFB900,FFFFFF
 Zwardoń - Czechowice-Dziedzice,S5,2,76869_76000,FFB900,FFFFFF
 Zwardoń - Częstochowa,S5/S1,2,76869_62653,,
 Zwardoń - Gliwice,S75,2,76869_69708,,8A5438
 Zwardoń - Katowice,S5,2,76869_73312,FFB900,FFFFFF
 Zwardoń - Skalite,ZSSK,2,76869_179282,,
 Zwardoń - Tychy,S5,2,76869_73700,FFB900,FFFFFF
+Zwardoń - Żywiec,S5,2,76869_76604,FFB900,FFFFFF
 Łazy - Częstochowa,S1,2,75200_62653,FF0000,FFFFFF
-Żory - Pszczyna,KSL,2,69203_75903,,
 Żory - Racibórz,S72/S7,2,69203_68700,,
 Żory - Rybnik,S72,2,69203_68205,8C008C,FFFFFF
 Żory - Wodzisław Śląski,S72/S71,2,69203_68403,,
