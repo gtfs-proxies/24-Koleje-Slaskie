@@ -26,7 +26,6 @@ Chałupki - Racibórz,S78,2,67900_68700,828C96,FFFFFF
 Chałupki - Rybnik,S71,2,67900_68205,0096FF,FFFFFF
 Chorzew Siemkowice - Bytom,S82,2,72058_72306,,
 Chorzew Siemkowice - Chorzów Batory,S82,2,72058_73106,,
-Chorzew Siemkowice - Kłobuck,S82,2,72058_71944,,
 Chorzów Batory - Chorzew Siemkowice,S82,2,73106_72058,,
 Chorzów Batory - Częstochowa,S9,2,73106_62653,,
 Chorzów Batory - Kłobuck,S82,2,73106_71944,,
@@ -61,7 +60,6 @@ Częstochowa - Sosnowiec Główny,AIR,2,62653_74658,,
 Częstochowa - Tarnowskie Góry,S9,2,62653_71001,,
 Częstochowa - Wisła Głębce,S1/S6,2,62653_77040,,
 Częstochowa - Zakopane,S51,2,62653_79020,,FFB900
-Częstochowa - Zawiercie,S1,2,62653_75309,FF0000,FFFFFF
 Częstochowa - Zwardoń,S1/S5,2,62653_76869,,
 Częstochowa - Łazy,S1,2,62653_75200,FF0000,FFFFFF
 Dąbrowa Górnicza - Gliwice,S1,2,74583_69708,FF0000,FFFFFF
@@ -98,7 +96,7 @@ Katowice - Lubliniec,S8,2,73312_71407,000096,FFFFFF
 Katowice - Orzesze,S70,2,73312_69005,,
 Katowice - Orzesze Jaśkowice,S70,2,73312_68148,,
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
-Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
+Katowice - Racibórz,170-LECIE,2,73312_68700,,
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
@@ -121,7 +119,6 @@ Kraków Główny - Częstochowa,S34,2,80416_62653,,
 Kraków Płaszów - Częstochowa,S34,2,79905_62653,,
 Kraków Płaszów - Katowice,S3,2,79905_73312,FF66CC,FFFFFF
 Kłobuck - Bytom,S82,2,71944_72306,,
-Kłobuck - Chorzew Siemkowice,S82,2,71944_72058,,
 Kłobuck - Chorzów Batory,S82,2,71944_73106,,
 Leszczyny - Chałupki,S71,2,68064_67900,0096FF,FFFFFF
 Leszczyny - Katowice,S71,2,68064_73312,0096FF,FFFFFF
@@ -144,13 +141,14 @@ Oświęcim - Katowice,S31,2,77107_73312,000096,FFFFFF
 Oświęcim - Mysłowice,S31,2,77107_73502,000096,FFFFFF
 Pierściec - Cieszyn,S62,2,75762_75655,009600,FFFFFF
 Pszczyna - Katowice,KSL,2,75903_73312,,
+Racibórz - Bielsko-Biała Główna,S7/S72,2,68700_76109,,
 Racibórz - Chałupki,S78,2,68700_67900,828C96,FFFFFF
 Racibórz - Gliwice,S7/S17,2,68700_69708,,
 Racibórz - Katowice,S7,2,68700_73312,0096FF,FFFFFF
 Racibórz - Katowice Ligota,S7,2,68700_72900,0096FF,FFFFFF
 Racibórz - Katowice Piotrowice,S7,2,68700_72967,0096FF,FFFFFF
 Racibórz - Orzesze,S7,2,68700_69005,0096FF,FFFFFF
-Racibórz - Rybnik,S7,2,68700_68205,0096FF,FFFFFF
+Racibórz - Rybnik,170-LECIE,2,68700_68205,,
 Racibórz - Wisła Głębce,S77,2,68700_77040,,
 Racibórz - Żory,S7/S72,2,68700_69203,,
 Rybnik - Bielsko-Biała Główna,S72,2,68205_76109,8C008C,FFFFFF
@@ -158,10 +156,12 @@ Rybnik - Chałupki,S71,2,68205_67900,0096FF,FFFFFF
 Rybnik - Czechowice-Dziedzice,S72,2,68205_76000,8C008C,FFFFFF
 Rybnik - Gliwice,S17,2,68205_69708,,
 Rybnik - Racibórz,S7,2,68205_68700,0096FF,FFFFFF
+Rybnik - Rybnik Niewiadom,170-LECIE,2,68205_68296,,
 Rybnik - Tychy,S74,2,68205_73700,,
 Rybnik - Wodzisław Śląski,S71,2,68205_68403,0096FF,FFFFFF
 Rybnik - Żory,S72,2,68205_69203,8C008C,FFFFFF
 Rybnik - Żywiec,S72/S5,2,68205_76604,,
+Rybnik Niewiadom - Katowice,170-LECIE,2,68296_73312,,
 Skalite - Zwardoń,ZSSK,2,179282_76869,,
 Skoczów - Cieszyn,S62,2,75788_75655,009600,FFFFFF
 Skoczów - Czechowice-Dziedzice,S6,2,75788_76000,009600,FFFFFF
@@ -218,3 +218,4 @@ Zwardoń - Żywiec,S5,2,76869_76604,FFB900,FFFFFF
 Żywiec - Pszczyna,S5,2,76604_75903,FFB900,FFFFFF
 Żywiec - Rybnik,S72,2,76604_68205,8C008C,FFFFFF
 Żywiec - Tychy,S5,2,76604_73700,FFB900,FFFFFF
+Żywiec - Zwardoń,S5,2,76604_76869,FFB900,FFFFFF
