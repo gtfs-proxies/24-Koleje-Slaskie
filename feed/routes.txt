@@ -96,7 +96,7 @@ Katowice - Lubliniec,S8,2,73312_71407,000096,FFFFFF
 Katowice - Orzesze,S70,2,73312_69005,,
 Katowice - Orzesze Jaśkowice,S70,2,73312_68148,,
 Katowice - Oświęcim,S31,2,73312_77107,000096,FFFFFF
-Katowice - Racibórz,170-LECIE,2,73312_68700,,
+Katowice - Racibórz,S7,2,73312_68700,0096FF,FFFFFF
 Katowice - Tychy,S4,2,73312_73700,FF7800,FFFFFF
 Katowice - Tychy Lodowisko,S4,2,73312_242839,FF7800,FFFFFF
 Katowice - Wisła Głębce,S6,2,73312_77040,009600,FFFFFF
@@ -148,7 +148,7 @@ Racibórz - Katowice,S7,2,68700_73312,0096FF,FFFFFF
 Racibórz - Katowice Ligota,S7,2,68700_72900,0096FF,FFFFFF
 Racibórz - Katowice Piotrowice,S7,2,68700_72967,0096FF,FFFFFF
 Racibórz - Orzesze,S7,2,68700_69005,0096FF,FFFFFF
-Racibórz - Rybnik,170-LECIE,2,68700_68205,,
+Racibórz - Rybnik,S7,2,68700_68205,0096FF,FFFFFF
 Racibórz - Wisła Głębce,S77,2,68700_77040,,
 Racibórz - Żory,S7/S72,2,68700_69203,,
 Rybnik - Bielsko-Biała Główna,S72,2,68205_76109,8C008C,FFFFFF
@@ -156,12 +156,10 @@ Rybnik - Chałupki,S71,2,68205_67900,0096FF,FFFFFF
 Rybnik - Czechowice-Dziedzice,S72,2,68205_76000,8C008C,FFFFFF
 Rybnik - Gliwice,S17,2,68205_69708,,
 Rybnik - Racibórz,S7,2,68205_68700,0096FF,FFFFFF
-Rybnik - Rybnik Niewiadom,170-LECIE,2,68205_68296,,
 Rybnik - Tychy,S74,2,68205_73700,,
 Rybnik - Wodzisław Śląski,S71,2,68205_68403,0096FF,FFFFFF
 Rybnik - Żory,S72,2,68205_69203,8C008C,FFFFFF
 Rybnik - Żywiec,S72/S5,2,68205_76604,,
-Rybnik Niewiadom - Katowice,170-LECIE,2,68296_73312,,
 Skalite - Zwardoń,ZSSK,2,179282_76869,,
 Skoczów - Cieszyn,S62,2,75788_75655,009600,FFFFFF
 Skoczów - Czechowice-Dziedzice,S6,2,75788_76000,009600,FFFFFF
