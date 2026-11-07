@@ -198,14 +198,12 @@ Zawiercie - Chorzów Batory,S9,2,75309_73106,,
 Zawiercie - Dąbrowa Górnicza Ząbkowice,S1,2,75309_74500,FF0000,FFFFFF
 Zawiercie - Gliwice,S1,2,75309_69708,FF0000,FFFFFF
 Zebrzydowice - Gliwice,NA,2,75507_69708,,
-Zwardoń - Bielsko-Biała Główna,S5,2,76869_76109,FFB900,FFFFFF
 Zwardoń - Czechowice-Dziedzice,S5,2,76869_76000,FFB900,FFFFFF
 Zwardoń - Częstochowa,S5/S1,2,76869_62653,,
 Zwardoń - Gliwice,S75,2,76869_69708,,8A5438
 Zwardoń - Katowice,S5,2,76869_73312,FFB900,FFFFFF
 Zwardoń - Skalite,ZSSK,2,76869_179282,,
 Zwardoń - Tychy,S5,2,76869_73700,FFB900,FFFFFF
-Zwardoń - Żywiec,S5,2,76869_76604,FFB900,FFFFFF
 Łazy - Częstochowa,S1,2,75200_62653,FF0000,FFFFFF
 Żory - Racibórz,S72/S7,2,69203_68700,,
 Żory - Rybnik,S72,2,69203_68205,8C008C,FFFFFF
